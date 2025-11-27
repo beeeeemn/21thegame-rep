@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Name=Моя C++ Программа (Универсальная)
+Exec=/bin/bash -c "cd $HOME/21/ && ./run_app.sh"
+Icon=utilities-terminal
+Categories=Development;
